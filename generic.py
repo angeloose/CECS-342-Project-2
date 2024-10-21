@@ -28,7 +28,7 @@ def main():
     for num in numbers:
         print(num)
     
-    # sorts numbers from greatest to least
+    # sorts numbers from least to greatest
     print("\nThe sorted numbers are:")
     for sNum in sortedNumbers:
         print(sNum)
