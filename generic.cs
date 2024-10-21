@@ -2,7 +2,7 @@
 // Assignment 2 - Group 24
 // CECS 342-02 Assignment 2
 // 20 October 2024
-// Tools Used: Visual Studio Code, Discord, GitHub, C, C#, C++, Python, Haskell, .NET, W3Schools.com, GeeksForGeeks.org, tutorialspoint.com, ChatGPT
+// Tools Used: Visual Studio Code, Discord, GitHub, C, C#, C++, Python, Haskell, .NET, W3Schools.com, GeeksForGeeks.org, tutorialspoint.com, learn.microsoft.com, ChatGPT
 
 //includes
 using System;
