@@ -23,7 +23,7 @@ class Program {
             Age = age;
         }
     }
-       static void Main() {
+    static void Main() {
         //Prompt Variables
         float[] numbers = [645.41f, 37.59f, 76.41f, 5.31f, -34.23f, 1.11f, 1.10f, 23.46f, 635.47f, -876.32f, 467.83f, 62.25f];
         Person[] people = new Person[] {
@@ -85,7 +85,7 @@ class Program {
         
         IEnumerable<Person> sortedPeepsAge = 
                 from person in people
-                orderby person.Age descending
+                orderby person.Age descending, person.Name ascending //sorts by name then age
                 select person;
         Console.WriteLine("\n-----Sorted List:-----");
         foreach (Person person in sortedPeepsAge)
