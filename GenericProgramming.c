@@ -119,9 +119,5 @@ int main() {
         printf("%s\t%d\n", people[i].name, people[i].age);
     } 
     
-
-
-
-
     return 0;
 }
