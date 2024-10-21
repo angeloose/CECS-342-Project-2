@@ -28,7 +28,7 @@ int compare_float(const void* a, const void* b) {
 int compare_name(const void* a, const void* b) {
     // returns whichever name a or b is greater using strcmp from string.h libray
     // if result positive, a is greater. if negative, b is greater. if 0, a = b.
-    return strcmp((const char*)a, (const char*)b);
+    return strcmp(((const struct Identity*)a)->name, ((const struct Identity*)b)->name);
 }
 
 int compare_age(const void* a, const void* b) {
