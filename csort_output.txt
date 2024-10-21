@@ -1,0 +1,84 @@
+Unsorted numbers
+645.409973
+37.590000
+76.410004
+5.310000
+-34.230000
+1.110000
+1.100000
+23.459999
+635.469971
+-876.320007
+467.829987
+62.250000
+
+Sorted numbers:
+-876.320007
+-34.230000
+1.100000
+1.110000
+5.310000
+23.459999
+37.590000
+62.250000
+76.410004
+467.829987
+635.469971
+645.409973
+
+Unsorted people:
+Hal     20
+Susan   31
+Dwight  19
+Kassandra       21
+Lawrence        25
+Cindy   22
+Cory    27
+Mac     19
+Romana  27
+Doretha 32
+Danna   20
+Zara    23
+Rosalyn 26
+Risa    24
+Benny   28
+Juan    33
+Natalie 25
+
+Sorted people by name:
+Benny   28
+Cindy   22
+Cory    27
+Danna   20
+Doretha 32
+Dwight  19
+Hal     20
+Juan    33
+Kassandra       21
+Lawrence        25
+Mac     19
+Natalie 25
+Risa    24
+Romana  27
+Rosalyn 26
+Susan   31
+Zara    23
+
+Sorted people by age:
+Dwight  19
+Mac     19
+Danna   20
+Hal     20
+Kassandra       21
+Cindy   22
+Natalie 25
+Lawrence        25
+Cory    27
+Benny   28
+Doretha 32
+Juan    33
+Risa    24
+Romana  27
+Rosalyn 26
+Susan   31
+Zara    23
