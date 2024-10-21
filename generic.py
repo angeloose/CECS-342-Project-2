@@ -1,6 +1,8 @@
+# Kevin Alvarez
 # Assignment 2 - Group 24
 # CECS 342-02 Assignment 2
 # 20 October 2024
+# Tools Used: Visual Studio Code, Discord, GitHub, C, C#, C++, Python, Haskell, W3Schools.com, GeeksForGeeks.org, tutorialspoint.com, ChatGPT
 
 # list of numbers, unsorted
 numbers = [645.41, 37.59, 76.41, 5.31, -34.23, 1.11, 1.10, 23.46, 635.47, -876.32, 467.83, 62.25]
