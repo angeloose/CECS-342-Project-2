@@ -1,6 +1,8 @@
+// Kevin Alvarez
 // Assignment 2 - Group 24
 // CECS 342-02 Assignment 2
 // 20 October 2024
+// Tools Used: Visual Studio Code, Discord, GitHub, C, C#, C++, Python, Haskell, W3Schools.com, GeeksForGeeks.org, tutorialspoint.com, ChatGPT
 
 #include <iostream>
 #include <vector>
