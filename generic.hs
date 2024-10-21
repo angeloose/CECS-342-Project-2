@@ -1,3 +1,12 @@
+--Tools Used:
+--VS Code
+--GHCI Compiler
+--https://en.wikibooks.org/wiki/Haskell/do_notation
+--https://hackage.haskell.org/package/base-4.20.0.1/docs/Data-List.html#v:sortBy
+--https://hackage.haskell.org/package/base-4.20.0.1/docs/Data-Ord.html#v:comparing
+--https://www.reddit.com/r/haskell/comments/4d1a5q/descending_sort_in_haskell/
+--https://hackage.haskell.org/package/base-4.20.0.1/docs/Data-Monoid.html
+
 import Data.List 
 import Data.Ord 
 
