@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-//
+﻿//includes
 using System;
 using System.Collections.Generic;
 using System.Globalization;
