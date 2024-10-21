@@ -103,7 +103,7 @@ Risa, 24
 Zara, 23
 Cindy, 22
 Kassandra, 21
-Hal, 20
 Danna, 20
+Hal, 20
 Dwight, 19
 Mac, 19
